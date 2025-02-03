@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body{
+    text-align: center;
+}
+table{
+    width: 35vw;
+    margin: 30px auto;
+    font-family: sans-serif;
+}
+th{
+    padding: 8px;
+    background-color: rgb(9, 157, 103);
+    color: white;
+    font-size: 13px;
+}
+td{
+    padding: 10px;
+    font-size: 10px;
+    width: 22vw;
+    text-align: center;
+    color: rgb(9, 157, 103);
+    font-weight: bold;
+}
+button{
+    width: 5vw;
+    padding: 8px;
+    font-size: 10px;
+    background-color: rgb(9, 157, 103);
+    border: none;
+    color: white;
+}
+button{
+    margin-top: -100px;
+}
+div{
+    margin: 0 auto;
+}
